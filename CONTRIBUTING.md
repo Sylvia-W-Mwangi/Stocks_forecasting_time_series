@@ -27,7 +27,7 @@ This document outlines the process for contributing, so we can keep things organ
    ```bash
    git clone https://github.com/your-username/your-fork.git
    ```
-   * Cloning downloads the repository to your local machine.
+* Cloning downloads the repository to your local machine.
 
 3. **Create a new branch** for your work:
    ```bash
