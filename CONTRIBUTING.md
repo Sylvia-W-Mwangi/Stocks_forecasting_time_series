@@ -60,23 +60,41 @@ There are several ways to help:
 Please ensure the following tools/libraries are installed:
 
 Python ≥ 3.8
+
 Jupyter Notebook
+
 Pandas, NumPy
+
 Scikit-learn
+
 XGBoost
+
 Matplotlib, Seaborn
+
 Imbalanced-learn (for SMOTE)
+
 Scikit-image (for image processing)
+
 streamlit==1.20.0
+
 numpy==1.23.5
+
 tensorflow==2.12.0
+
 plotly==5.10.0
+
 statsmodels==0.13.5
+
 keras==2.12.0
+
 pyarrow==12.0.0
+
 scipy==1.10.1
+
 joblib==1.2.0
+
 Pillow==9.4.0
+
 requests===2.28.1
 
 
